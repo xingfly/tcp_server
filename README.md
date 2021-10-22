@@ -2,8 +2,8 @@
 
 
 ## 运行服务端
-![-w777](https://pic.xingfly.com/mweb/16348712589689.jpg)
+![](https://s3.bmp.ovh/imgs/2021/10/789279119d495d7f.jpg)
 
 
 ## telnet连接
-![-w467](https://pic.xingfly.com/mweb/16348713576118.jpg)
+![](https://s3.bmp.ovh/imgs/2021/10/77fab1838e6e8d32.jpg)
