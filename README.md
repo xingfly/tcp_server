@@ -2,8 +2,8 @@
 
 
 ## 运行服务端
-![-w777](http://pic.xingfly.com/mweb/16348712589689.jpg)
+![-w777](https://pic.xingfly.com/mweb/16348712589689.jpg)
 
 
 ## telnet连接
-![-w467](http://pic.xingfly.com/mweb/16348713576118.jpg)
+![-w467](https://pic.xingfly.com/mweb/16348713576118.jpg)
